@@ -120,7 +120,9 @@ precio_final o precioFinal
 
 
 
-Algoritmo de ejercicio en PSeInt
+Algoritmo de ejercicio en PSeInt echo por mi
+
+# Pedir su nombre y sacar el promedio de sus calificaciones
 
 1.- Inicio
 
@@ -152,5 +154,58 @@ Algoritmo de ejercicio en PSeInt
 
 15.- Fin
 
+
+Resolución en grupo
+
+1.- Inicio
+
+2.- Declarar (nombre)string
+    (cal1,cal2,cal3,cal4,promedio)float
+    
+3.- mostrar("ingresa el nombre del alumno")
+
+4.- asignar(nombre)
+
+5.- mostrar("ingresa la primera calificación")
+
+6.- asignar(cal1)
+
+7.- mostrar("ingresa la segunda calificación")
+
+8.- asignar(cal2)
+
+9.- mostrar("ingresa la tercera calificación")
+
+10.- asignar(cal3)
+
+11.- mostrar("ingresa la cuarta calificación")
+
+12.- asignar(cal4)
+
+13.- promedio=(cal1+cal2+cal3+cal4)/4
+
+14.- mostrar("Hola" nombre "tu promedio es de " promedio)
+
+15.- Fin
+
+
+# Determinar si una persona es mayor a otras 2
+
+1.- Inicio
+
+2.- Declarar (persona1,persona2,persona3)int
+    (diferencia)logico
+
+3.- Mostrar("Dame tu edad")
+
+4.- asignar(persona1)
+
+5.- Mostrar("Dame la edad de la persona que esta a tu lado derecho")
+
+6.- asignar(persona2)
+
+7.- Mostrar("Dame la edad de la persona que esta a tu lado izquierdo")
+
+8.- asignar(persona3)
 
 
