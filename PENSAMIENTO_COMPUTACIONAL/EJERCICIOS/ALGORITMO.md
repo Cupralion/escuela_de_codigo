@@ -86,3 +86,71 @@
 6.- Muestre el porcentaje de Incremento
 
 7.- Fin
+
+
+Resolución en clase
+
+1.- Inicio
+
+2.- Declarar (precio_inicial,precio_final,incremento,porcentaje)float
+
+3.- mostrar("dame el precio inicial")
+
+4.- asignar(precioInicial)
+
+5.- mostrar("dame el precio final")
+
+6.- asignar(precioFinal)
+
+7.- incremento=precioFinal-precioInicial
+
+8.- porcentaje=(incremento*100)/precioInicial
+
+9.- mostrar("el incremento fue de ",porcentaje)
+
+10.- Fin
+
+
+
+
+Comentarios:
+
+En asignar las variables estos son los tipos que se puedem usar
+precio_final o precioFinal
+
+
+
+Algoritmo de ejercicio en PSeInt
+
+1.- Inicio
+
+2.- Declarar (nombre,calificacion1,calificacion2,calificacion3,calificacion4,promedio)float
+
+3.- mostrar("dame tu nombre")
+
+4.- asignar(nombre)
+
+5.- mostrar("dame tu calificación 1")
+
+6.- asignar(calificacion1)
+
+7.- mostrar("dame tu calificación 2")
+
+8.- asignar(calificacion2)
+
+9.- mostrar("dame tu calificación 3")
+
+10.- asignar(calificacion3)
+
+11.- mostrar("dame tu calificación 4")
+
+12.- asignar(calificacion4)
+
+13.- promedio=(calificacion1+calificacion2+calificacion3+calificacion4)/4
+
+14.- mostrar("Hola" nombre "tu promedio es de " promedio)
+
+15.- Fin
+
+
+
