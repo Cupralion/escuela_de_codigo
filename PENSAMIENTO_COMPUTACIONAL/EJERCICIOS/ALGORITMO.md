@@ -154,6 +154,29 @@ Algoritmo de ejercicio en PSeInt echo por mi
 
 15.- Fin
 
+PSeInt
+
+Algoritmo Promedio
+	calificación1<-0
+	calificación2<-0
+	calificación3<-0
+	calificación4<-0
+	prom<-0
+	Escribir " Hola, cual es tu nombre "
+	Leer nombre
+	Escribir " Cual es tu primer calificación "
+	Leer calificación1
+	Escribir " Cual es tu segunda calificación "
+	Leer calificación2
+	Escribir " Cual es tu tercer calificación "
+	Leer calificación3
+	Escribir " Cual es tu cuarta calificación "
+	Leer calificación4
+	prom<-(calificación1+calificación2+calificación3+calificación4)/4
+	Escribir nombre," tu promedio es de ",prom
+	Escribir " ADIOS"
+	FinAlgoritmo
+
 
 Resolución en grupo
 
