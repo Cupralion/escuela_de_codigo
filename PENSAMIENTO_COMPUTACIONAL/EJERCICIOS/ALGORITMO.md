@@ -231,4 +231,10 @@ Resolución en grupo
 
 8.- asignar(persona3)
 
+9.- diferencia=((persona1>persona2) Y (persona1>persona3))
+
+10.- mostrar("Es mayor a las otras 2 personas" diferencia)
+
+11.- Fin
+
 
