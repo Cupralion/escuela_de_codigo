@@ -15,7 +15,7 @@
 
 4.- Asignar (num1)
 
-5.- res=num1*0.9144
+5.- res=num1*1.09361
 
 6.- mostrar("Los",num1,"metros a yardas son", res, "yardas")
 
@@ -23,11 +23,20 @@
 
 ### DIAGRAMA
 
-![image](https://user-images.githubusercontent.com/104279605/167272272-e99b1bda-d265-47fe-9545-f327701b98a2.png)
+![image](https://user-images.githubusercontent.com/104279605/167272499-0a34b394-80d1-4eaa-b767-688aa04578a4.png)
 
 ### PSeInt
 
-![image](https://user-images.githubusercontent.com/104279605/167272246-a98e28f0-62db-45e1-9c24-c120492f3e91.png)
+![image](https://user-images.githubusercontent.com/104279605/167272506-38397e09-4a8c-4841-ae0a-13eb42ddda4d.png)
+
+### PSeInt Funcionando
+
+![image](https://user-images.githubusercontent.com/104279605/167272549-89e98185-3827-4934-ab6f-251bfada4c09.png)
+
+
+
+
+
 
 
 3. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
