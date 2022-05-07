@@ -3,9 +3,31 @@
    
     
 
-2. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
+## 2. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
       
-    
+### ALGORITMO   
+
+1.- Inicio
+
+2.- Declarar (num1,res)float
+
+3.- Mostrar ("Ingresa el número de metros")
+
+4.- Asignar (num1)
+
+5.- res=num1*0.9144
+
+6.- mostrar("Los",num1,"metros a yardas son", res, "yardas")
+
+7.- FIn
+
+### DIAGRAMA
+
+![image](https://user-images.githubusercontent.com/104279605/167272272-e99b1bda-d265-47fe-9545-f327701b98a2.png)
+
+### PSeInt
+
+![image](https://user-images.githubusercontent.com/104279605/167272246-a98e28f0-62db-45e1-9c24-c120492f3e91.png)
 
 
 3. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
