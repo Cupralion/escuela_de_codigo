@@ -34,6 +34,10 @@
 ![image](https://user-images.githubusercontent.com/104279605/167272549-89e98185-3827-4934-ab6f-251bfada4c09.png)
 
 
+### Diagrama de Flujo de PSeInt
+
+![image](https://user-images.githubusercontent.com/104279605/167272698-7d9fd337-c535-4d28-acf4-c82a5ef55b7d.png)
+
 
 
 
