@@ -82,3 +82,93 @@
 ![image](https://user-images.githubusercontent.com/104279605/167271801-ea4e7db6-fdba-4dfc-b1a1-ab78c60811ca.png)
 
 
+# EJERCICIO EN CLASE 2
+
+## 5.- Programa que me diga si es mayor de edad
+
+### ALGORITMO
+
+1.- Inicio
+
+2.- Declara (edad)int
+
+3.- Mostrar "ingresa tu edad")
+
+4.- Asignar edad
+
+5.- si edad>=18 entonces
+
+        mostrar("eres mayor de edad")
+        
+        finsi
+        
+6.- Fin        
+
+### Diagrama
+
+![image](https://user-images.githubusercontent.com/104279605/167273944-a53ddc52-e5ae-4fbd-a8a2-aaa8722ad1a5.png)
+
+### PSeInt 
+
+![image](https://user-images.githubusercontent.com/104279605/167273962-6bfc357c-f4ff-4893-9cc5-064c78cc5a45.png)
+
+
+# EJERCICIO EN CLASE 3
+
+## 5.- Programa que me diga si es mayor de edad
+
+### ALGORITMO
+
+1.- Inicio
+
+2.- Declara (edad)int
+
+3.- Mostrar ("ingresa tu edad")
+
+4.- Asignar edad
+
+5.- si edad > 0 y edad < 100 entonces
+
+          si edad>=18 entonces
+          
+          mostrar("eres mayor de edad")
+          
+          finsi
+          
+    finsi
+    
+6.- Fin        
+
+
+
+
+# EJERCICIO EN CLASE 4
+
+## 5.- Programa que me diga si es mayor de edad
+
+### ALGORITMO
+
+1.- Inicio
+
+2.- Declara (edad)int
+
+3.- Mostrar "ingresa tu edad")
+
+4.- Asignar edad
+
+5.- si edad>=18 entonces
+
+        mostrar("Eres Mayor de Edad")
+        
+si no
+        
+        mostrar("Eres Menor de Edad")
+finsi
+        
+6.- Fin        
+
+
+### Diagrama
+
+![image](https://user-images.githubusercontent.com/104279605/167273998-17fd7058-ccfc-4dc4-9d06-18879d16dc2d.png)
+
