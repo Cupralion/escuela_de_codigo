@@ -28,6 +28,8 @@
 
 ### Diagrama de Flujo de PSeInt
  
+![image](https://user-images.githubusercontent.com/104279605/167499590-4e03d470-73d2-4eb3-882e-76d0c20094c9.png)
+
  
  
  *
