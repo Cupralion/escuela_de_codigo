@@ -76,17 +76,66 @@
 
 ![image](https://user-images.githubusercontent.com/104279605/167272698-7d9fd337-c535-4d28-acf4-c82a5ef55b7d.png)
 
+-
+
+-
+
+-
+
+![image](https://user-images.githubusercontent.com/104279605/167503115-4c54060f-c157-4f4a-8292-5e0953a959ad.png)
+
+-
+
+-
+
+-
+
+# 3. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
+
+### ALGORITMO 
+
+
+1.- Inicio
+
+2.- Declarar (base,alt,area)float
+
+3.- Mostrar ("Ingresa la base del triangulo")
+
+4.- Asignar (base)
+
+5.- Mostrar ("Ingresa la altura del triangulo")
+
+6.- Asignar (alt)
+
+7.- area = (base * alt) / 2
+
+8.- mostrar("El area del triangulo es ",area)
+
+9.- Fin
+
+
+### DIAGRAMA
+
+![image](https://user-images.githubusercontent.com/104279605/167509476-37205b3c-2ec3-4130-b954-5e824de53b23.png)
+
+### PSeInt
+
+![image](https://user-images.githubusercontent.com/104279605/167509779-06ab6e3d-91ec-43c8-8bed-87fd1fa73117.png)
+
+
+### Diagrama de Flujo de PSeInt
+
+![image](https://user-images.githubusercontent.com/104279605/167509836-93e76b50-0ac3-4519-8015-ce5c16b6a79d.png)
 
 
 
 
 
-3. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
+x-x
 
- 
+![image](https://user-images.githubusercontent.com/104279605/167504785-219e90e8-d31a-4b3d-9c83-a0feb8ff35f6.png)
 
-
-
+x-x
 
 # EJERCICIO EN CLASE
 
