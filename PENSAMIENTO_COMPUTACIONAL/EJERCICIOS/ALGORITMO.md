@@ -241,19 +241,33 @@ Resolución en grupo
 PSeInt
 
 Algoritmo Edad
+
 	pers1<-0
+	
 	pers2<-0
+	
 	pers3<-0
+	
 	dif<-0
+	
 	Escribir "Dame tu edad"
+	
 	Leer pers1
+	
 	Escribir "Dame la edad de la persona que esta a tu derecha"
+	
 	Leer pers2
+	
 	Escribir "Dame la edad de la persona que esta a tu izquierda"
+	
 	Leer pers3
+	
 	si(pers1>pers2)Y(pers1>pers3) Entonces
+	
 		Escribir "Eres Mayor que tus dos compañeros"
+		
 	SiNo
+	
 		Escribir"No eres Mayor que tus Compañeros"
 	
 	FinSi
