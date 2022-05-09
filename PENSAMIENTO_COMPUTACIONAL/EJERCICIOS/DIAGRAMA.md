@@ -1,7 +1,52 @@
-## RETO
-1. Realizar un algoritmo y diagrama de flujo de un programa que solicite un número y lo multiplique por 9, mostrando su resultado.
+# RETO
+##1. Realizar un algoritmo y diagrama de flujo de un programa que solicite un número y lo multiplique por 9, mostrando su resultado.
    
-    
+ ### ALGORITMO
+ 
+ 1.- Inicio
+ 
+ 2.- Declarar (num,res)float
+ 
+ 3.- Mostrar (" Ingresa un número y lo multiplicare por 9 ")
+ 
+ 4.- asignar (num)
+ 
+ 5.- res=num*9
+ 
+ 6.- Mostrar (num, "por 9 da por resulado ",res)
+ 
+ 7.- Fin
+ 
+ ### DIAGRAMA DE FLUJO
+ 
+ ![image](https://user-images.githubusercontent.com/104279605/167498142-81a7c10b-3a39-40b7-b800-ae2f0da953a9.png)
+
+
+### PSeInt
+
+![image](https://user-images.githubusercontent.com/104279605/167499333-8111f77b-94c4-4133-bb66-8704b815ba92.png)
+
+### Diagrama de Flujo de PSeInt
+ 
+ 
+ 
+ *
+ 
+ *
+ 
+ *
+ 
+ *
+ 
+ *
+ 
+ *
+ 
+ *
+ 
+ *
+ 
+ *
 
 ## 2. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
       
