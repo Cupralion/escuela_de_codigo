@@ -353,7 +353,7 @@
 
 *
 
-*
+# CICLO FOR
 
 *
 
@@ -416,6 +416,56 @@
 
 ![image](https://user-images.githubusercontent.com/104279605/168448199-68a220ce-94ee-41ec-9121-cd0ea615a325.png)
 
+
+
+CICLO MIENTRAS
+
+### PSeInt
+
+![image](https://user-images.githubusercontent.com/104279605/168448492-2fbb85bc-1a9d-4a5c-8f72-4d9c38b1fbff.png)
+
+### Diagrama PSeInt
+
+![image](https://user-images.githubusercontent.com/104279605/168448513-0a226f1c-b161-425c-b8b3-393901e8ede5.png)
+
+
+
+#Ejercicio de solicitar una contraseña
+
+### Algoritmo
+
+1.- Inicio
+
+2.- Declarar(pass,correo)chart
+
+3.- Mostrar ("Ingresa tu usuario")
+
+4.- Asignar (correo)
+
+5.- Mostrar ("Ingresa tu contraseña")
+
+6.- Asignar (pass)
+
+7.- 
+
+
+### PSeInt
+
+![image](https://user-images.githubusercontent.com/104279605/168448738-45e45225-f8a9-48e7-98b3-54f2bf311460.png)
+
+
+### Diagrama PSeInt
+
+![image](https://user-images.githubusercontent.com/104279605/168448762-a3bc4c8e-4a6e-4436-ae32-2182129c7f73.png)
+
+*
+*
+
+*
+
+*
+
+#Ejercicio de solicitar una contraseña (limitado a 3 opciones)
 
 
 
