@@ -343,3 +343,79 @@
 ### Diagrama PSeInt
 
 ![image](https://user-images.githubusercontent.com/104279605/168447481-921d9dcd-8684-47d3-80b4-6d148ed3e4ef.png)
+
+
+*
+
+*
+
+![image](https://user-images.githubusercontent.com/104279605/168446021-f26665db-b608-4c9b-a6e7-17011f5f9fcc.png)
+
+*
+
+*
+
+*
+
+# Elaborar un algoritmo y diagrama de flujo para un programa que cuente desde el 0 hasta el 1000 de dos en dos
+
+### Algoritmo
+
+1.-inicio
+
+2.-declarar(numero) int
+
+3.-asignar(numero=0)
+
+4.-PARA(numero <= 1000) mostrar(numero) numero = numero + 2 FIN PARA
+
+5.-fin
+
+### Diagrama
+
+![image](https://user-images.githubusercontent.com/104279605/168448050-b66dbd2a-d820-4465-97e0-bded1049f009.png)
+
+
+### PSeInt
+
+![image](https://user-images.githubusercontent.com/104279605/168447945-c8103dc0-051b-42bf-91cf-07fb71abf01f.png)
+
+### Diagrama PSeInt
+
+![image](https://user-images.githubusercontent.com/104279605/168447970-a96e284a-62c1-4e8a-9e1a-1af6078e0897.png)
+
+*
+
+*
+
+*
+
+*
+
+*
+# Realizar algorito y diagrama de flujo que solicite un número y que imprima la tabla del multiplicar del 1 al 10 de ese número
+
+### Algoritmo
+
+1.- inicio
+2.- declarar(numero,contador,resultado)int
+3.- asignar(contador=1)
+4.- mostrar("ingresa el número del que quieres saber su tabla de multiplicar del 1 al 10")
+5.- asignar(numero)
+6.- PARA(contador <= 10) resultado=numero*contador mostar(numero * contador = resutado) contador=contador + 1 FIN PARA
+7.- fin
+
+### Diagrama
+
+![image](https://user-images.githubusercontent.com/104279605/168448237-91848e96-bbba-4ae6-ad03-8d63c1d7db37.png)
+
+### PSeInt
+![image](https://user-images.githubusercontent.com/104279605/168448181-b8e77d2a-09fb-4718-a82c-557b5ae72de8.png)
+
+### Diagrama PSeInt
+
+![image](https://user-images.githubusercontent.com/104279605/168448199-68a220ce-94ee-41ec-9121-cd0ea615a325.png)
+
+
+
+
