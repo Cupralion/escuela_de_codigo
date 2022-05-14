@@ -153,7 +153,59 @@
 
 
 * Un programa que pida una letra y detecte si es una vocal. 
+
+### Algoritmo
+
+1.- Inicio
+
+2.- Declarar (letra)chart
+
+3.- Mostrar "Ingresa una letra"
+
+4.- Asignar Letra
+
+5.- si letra="a" o letra="e" o letra="i" o letra"o" o letra="u" entonces
+
+              mostrar ("La letra que ingresaste es una vocal")
+              
+              si no
+              
+              mostrar ("La letra que ingresaste no es una vocal")
+              
+    fin si
+    
+6.- fin
+
+### Diagrama
+
+![image](https://user-images.githubusercontent.com/104279605/168386715-11915ece-0621-428d-81bd-6bf3ac8be0a1.png)
+
+### PSeInt
+
+![image](https://user-images.githubusercontent.com/104279605/168386863-0fd8339b-cdfb-4466-bfa7-8af932caedef.png)
+
+### Diagrama PSeInt
+
+![image](https://user-images.githubusercontent.com/104279605/168386944-e8976038-0fcf-4d1a-ac08-a59e221aee38.png)
+
+-
+-
+-
+-
+-
+
+![image](https://user-images.githubusercontent.com/104279605/168386968-45d31b90-9c53-4527-9701-9c9757634cff.png)
+
+-
+-
+-
+--
+-
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
+
+
+
+
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 * Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
