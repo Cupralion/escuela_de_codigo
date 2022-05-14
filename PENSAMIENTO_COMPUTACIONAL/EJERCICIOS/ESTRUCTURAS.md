@@ -203,6 +203,98 @@
 -
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 
+### Algoritmo
+
+1.- Inicio
+
+2.- Declarar (num1,num2,num3,res)float
+
+3.- Mostrar ("Escribe el primer número")
+
+4.- Asignar (num1)
+
+5.- Mostrar ("Escribe el segundo número")
+
+6.- Asignar (num2)
+
+7.- Mostrar ("Escribe el tercer número")
+
+8.- Asignar (num3)
+
+9.- si num1>num2 Y num2>num3 entonces
+       
+       mostrar("Tus números son ", num3,",",num2,",",num1)
+       
+    si no
+    
+       si num1>num2 Y num3>num2 entonces
+       
+          mostrar("Tus números son ", num2,",",num3,",",num1)
+          
+       si no   
+
+          si num2>num1 Y num1>num3 entonces
+           
+             mostrar("Tus números son ", num3,",",num1,",",num2)
+             
+          si no
+          
+             si num2>num3 Y num3>num1 entonces
+             
+                mostrar("Tus números son ", num1,",",num3,",",num2)
+                
+             si no
+             
+                si num3>num1 Y num1>num2 entonces
+                
+                   mostrar("Tus números son ", num2,",",num1,",",num3)
+                   
+                si no
+                
+                   si num3>num2 Y num2>num1 entonces
+                
+                      mostrar("Tus números son ", num1,",",num2,",",num3)
+                      
+                   fin si
+                   
+                 fin si
+                 
+              fin si   
+          
+           fin si   
+   
+        fin si
+        
+     fin si
+     
+10.- Fin si
+
+###Diagrama
+
+![image](https://user-images.githubusercontent.com/104279605/168445813-202dc73c-a11e-4461-bb05-774667c164b7.png)
+
+###PSeInt
+
+![image](https://user-images.githubusercontent.com/104279605/168445990-3cf2d390-a213-4230-bab6-44952ba405c3.png)
+
+###Diagrama PSeInt
+
+![image](https://user-images.githubusercontent.com/104279605/168446003-4645afa0-1510-4ef7-9bbb-e3f0ae6d0555.png)
+
+* +
+
+*
+
+*
+![image](https://user-images.githubusercontent.com/104279605/168446021-f26665db-b608-4c9b-a6e7-17011f5f9fcc.png)
+
+*
+*
+*
+
+*
+
+*
 
 
 
@@ -215,3 +307,4 @@
 
 
 
+- -
