@@ -308,3 +308,38 @@
 
 
 - -
+![image](https://user-images.githubusercontent.com/104279605/168447327-f3a3fca1-3d8f-49a7-bb8d-bbb15f7352d3.png)
+
+-
+
+-
+
+-
+![image](https://user-images.githubusercontent.com/104279605/168447329-d265fe4c-7047-4108-bb02-80496644699c.png)
+![image](https://user-images.githubusercontent.com/104279605/168447330-34157291-a0d3-40a1-9607-b73efc4190b6.png)
+
+#EJERCICIOS EN CLASE
+
+###Algoritmo
+
+1.-Inicio
+
+2.- Declarar (dia)int
+
+3.- Muestra ("Ingresa el número para escribir su día")
+
+4.- asigna (dia)
+
+5.- En caso de (dia) Haga caso1: mostrar("Lunes") caso2: mostrar("Martes") caso3: mostrar("Miercoles") caso4: mostrar("Jueves") caso5: mostrar("Viernes") caso6: mostrar("Sabado") caso7: mostrar("Domingo")  sino mostrar("Ingrese un número fuera del rango 1-7") Fin caso
+
+6.- Fin
+
+### Diagrama
+
+
+### PSeInt 
+![image](https://user-images.githubusercontent.com/104279605/168447456-f18aec60-1cf8-41bb-8ff6-c5384c95d54b.png)
+
+### Diagrama PSeInt
+
+![image](https://user-images.githubusercontent.com/104279605/168447481-921d9dcd-8684-47d3-80b4-6d148ed3e4ef.png)
